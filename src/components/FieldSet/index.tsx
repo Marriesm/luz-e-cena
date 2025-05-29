@@ -1,5 +1,5 @@
 import React from "react";
-import styles from "./Fieldset.module.css";
+import styles from "./FieldSet.module.css";
 
 type FieldsetProps = {
   variant?: "primary" | "secondary";
